@@ -1,0 +1,100 @@
+{
+  "student_profile": {
+    "id": 2,
+    "name": "Priya",
+    "education": "B.Com",
+    "current_skills": [
+      "Excel",
+      "Basic Statistics"
+    ],
+    "career_goal": "Data Analyst",
+    "experience_level": "Beginner"
+  },
+  "total_recommendations": 5,
+  "recommended_learning_path": [
+    {
+      "order": 1,
+      "course_id": 1,
+      "course": "Python Fundamentals",
+      "score": 100,
+      "difficulty": "Beginner",
+      "duration_weeks": 4,
+      "skills": [
+        "Python",
+        "Programming Basics"
+      ],
+      "prerequisites": [],
+      "missing_prerequisites": [],
+      "reason": "This course develops Python, Programming Basics, which are relevant to becoming a Data Analyst. You currently meet its prerequisites."
+    },
+    {
+      "order": 2,
+      "course_id": 3,
+      "course": "SQL Fundamentals",
+      "score": 100,
+      "difficulty": "Beginner",
+      "duration_weeks": 3,
+      "skills": [
+        "SQL",
+        "Database Basics"
+      ],
+      "prerequisites": [],
+      "missing_prerequisites": [],
+      "reason": "This course develops SQL, Database Basics, which are relevant to becoming a Data Analyst. You currently meet its prerequisites."
+    },
+    {
+      "order": 3,
+      "course_id": 4,
+      "course": "PostgreSQL Development",
+      "score": 100,
+      "difficulty": "Intermediate",
+      "duration_weeks": 3,
+      "skills": [
+        "PostgreSQL",
+        "Joins",
+        "Indexing"
+      ],
+      "prerequisites": [
+        "SQL"
+      ],
+      "missing_prerequisites": [],
+      "reason": "This course develops PostgreSQL, Joins, Indexing, which are relevant to becoming a Data Analyst. You currently meet its prerequisites."
+    },
+    {
+      "order": 4,
+      "course_id": 10,
+      "course": "Data Analysis with Python",
+      "score": 100,
+      "difficulty": "Intermediate",
+      "duration_weeks": 4,
+      "skills": [
+        "Pandas",
+        "NumPy",
+        "Data Cleaning"
+      ],
+      "prerequisites": [
+        "Python"
+      ],
+      "missing_prerequisites": [],
+      "reason": "This course develops Pandas, NumPy, Data Cleaning, which are relevant to becoming a Data Analyst. You currently meet its prerequisites."
+    },
+    {
+      "order": 5,
+      "course_id": 11,
+      "course": "Data Visualization",
+      "score": 100,
+      "difficulty": "Intermediate",
+      "duration_weeks": 3,
+      "skills": [
+        "Matplotlib",
+        "Seaborn",
+        "Data Visualization"
+      ],
+      "prerequisites": [
+        "Python"
+      ],
+      "missing_prerequisites": [],
+      "reason": "This course develops Matplotlib, Seaborn, Data Visualization, which are relevant to becoming a Data Analyst. You currently meet its prerequisites."
+    }
+  ]
+}

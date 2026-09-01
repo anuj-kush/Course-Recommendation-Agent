@@ -1,0 +1,117 @@
+{
+  "student_profile": {
+    "id": 1,
+    "name": "Anuj",
+    "education": "MCA",
+    "current_skills": [
+      "Python",
+      "SQL",
+      "Django"
+    ],
+    "career_goal": "Python Backend Developer",
+    "experience_level": "Intermediate"
+  },
+  "total_recommendations": 6,
+  "recommended_learning_path": [
+    {
+      "order": 1,
+      "course_id": 1,
+      "course": "Python Fundamentals",
+      "score": 100,
+      "difficulty": "Beginner",
+      "duration_weeks": 4,
+      "skills": [
+        "Python",
+        "Programming Basics"
+      ],
+      "prerequisites": [],
+      "missing_prerequisites": [],
+      "reason": "This course develops Python, Programming Basics, which are relevant to becoming a Python Backend Developer. You currently meet its prerequisites."
+    },
+    {
+      "order": 2,
+      "course_id": 3,
+      "course": "SQL Fundamentals",
+      "score": 100,
+      "difficulty": "Beginner",
+      "duration_weeks": 3,
+      "skills": [
+        "SQL",
+        "Database Basics"
+      ],
+      "prerequisites": [],
+      "missing_prerequisites": [],
+      "reason": "This course develops SQL, Database Basics, which are relevant to becoming a Python Backend Developer. You currently meet its prerequisites."
+    },
+    {
+      "order": 3,
+      "course_id": 15,
+      "course": "Git and Docker Fundamentals",
+      "score": 100,
+      "difficulty": "Beginner",
+      "duration_weeks": 3,
+      "skills": [
+        "Git",
+        "GitHub",
+        "Docker"
+      ],
+      "prerequisites": [],
+      "missing_prerequisites": [],
+      "reason": "This course develops Git, GitHub, Docker, which are relevant to becoming a Python Backend Developer. You currently meet its prerequisites."
+    },
+    {
+      "order": 4,
+      "course_id": 2,
+      "course": "Advanced Python",
+      "score": 100,
+      "difficulty": "Intermediate",
+      "duration_weeks": 4,
+      "skills": [
+        "OOP",
+        "Exception Handling",
+        "Modules"
+      ],
+      "prerequisites": [
+        "Python"
+      ],
+      "missing_prerequisites": [],
+      "reason": "This course develops OOP, Exception Handling, Modules, which are relevant to becoming a Python Backend Developer. You currently meet its prerequisites."
+    },
+    {
+      "order": 5,
+      "course_id": 4,
+      "course": "PostgreSQL Development",
+      "score": 100,
+      "difficulty": "Intermediate",
+      "duration_weeks": 3,
+      "skills": [
+        "PostgreSQL",
+        "Joins",
+        "Indexing"
+      ],
+      "prerequisites": [
+        "SQL"
+      ],
+      "missing_prerequisites": [],
+      "reason": "This course develops PostgreSQL, Joins, Indexing, which are relevant to becoming a Python Backend Developer. You currently meet its prerequisites."
+    },
+    {
+      "order": 6,
+      "course_id": 5,
+      "course": "Django Development",
+      "score": 100,
+      "difficulty": "Intermediate",
+      "duration_weeks": 5,
+      "skills": [
+        "Django",
+        "ORM",
+        "Authentication"
+      ],
+      "prerequisites": [
+        "Python"
+      ],
+      "missing_prerequisites": [],
+      "reason": "This course develops Django, ORM, Authentication, which are relevant to becoming a Python Backend Developer. You currently meet its prerequisites."
+    }
+  ]
+}

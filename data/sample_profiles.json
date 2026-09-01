@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "name": "Anuj",
+    "education": "MCA",
+    "current_skills": [
+      "Python",
+      "SQL",
+      "Django"
+    ],
+    "career_goal": "Python Backend Developer",
+    "experience_level": "Intermediate"
+  },
+  {
+    "id": 2,
+    "name": "Priya",
+    "education": "B.Com",
+    "current_skills": [
+      "Excel",
+      "Basic Statistics"
+    ],
+    "career_goal": "Data Analyst",
+    "experience_level": "Beginner"
+  },
+  {
+    "id": 3,
+    "name": "Rahul",
+    "education": "B.Tech Computer Science",
+    "current_skills": [
+      "Python",
+      "Pandas",
+      "NumPy"
+    ],
+    "career_goal": "Machine Learning Engineer",
+    "experience_level": "Intermediate"
+  },
+  {
+    "id": 4,
+    "name": "Sneha",
+    "education": "BCA",
+    "current_skills": [
+      "Python",
+      "FastAPI",
+      "REST API"
+    ],
+    "career_goal": "Generative AI Engineer",
+    "experience_level": "Intermediate"
+  }
+]

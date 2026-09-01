@@ -1,0 +1,121 @@
+{
+  "student_profile": {
+    "id": 4,
+    "name": "Sneha",
+    "education": "BCA",
+    "current_skills": [
+      "Python",
+      "FastAPI",
+      "REST API"
+    ],
+    "career_goal": "Generative AI Engineer",
+    "experience_level": "Intermediate"
+  },
+  "total_recommendations": 6,
+  "recommended_learning_path": [
+    {
+      "order": 1,
+      "course_id": 1,
+      "course": "Python Fundamentals",
+      "score": 100,
+      "difficulty": "Beginner",
+      "duration_weeks": 4,
+      "skills": [
+        "Python",
+        "Programming Basics"
+      ],
+      "prerequisites": [],
+      "missing_prerequisites": [],
+      "reason": "This course develops Python, Programming Basics, which are relevant to becoming a Generative AI Engineer. You currently meet its prerequisites."
+    },
+    {
+      "order": 2,
+      "course_id": 15,
+      "course": "Git and Docker Fundamentals",
+      "score": 100,
+      "difficulty": "Beginner",
+      "duration_weeks": 3,
+      "skills": [
+        "Git",
+        "GitHub",
+        "Docker"
+      ],
+      "prerequisites": [],
+      "missing_prerequisites": [],
+      "reason": "This course develops Git, GitHub, Docker, which are relevant to becoming a Generative AI Engineer. You currently meet its prerequisites."
+    },
+    {
+      "order": 3,
+      "course_id": 2,
+      "course": "Advanced Python",
+      "score": 100,
+      "difficulty": "Intermediate",
+      "duration_weeks": 4,
+      "skills": [
+        "OOP",
+        "Exception Handling",
+        "Modules"
+      ],
+      "prerequisites": [
+        "Python"
+      ],
+      "missing_prerequisites": [],
+      "reason": "This course develops OOP, Exception Handling, Modules, which are relevant to becoming a Generative AI Engineer. You currently meet its prerequisites."
+    },
+    {
+      "order": 4,
+      "course_id": 7,
+      "course": "FastAPI Development",
+      "score": 100,
+      "difficulty": "Intermediate",
+      "duration_weeks": 3,
+      "skills": [
+        "FastAPI",
+        "Pydantic",
+        "API Documentation"
+      ],
+      "prerequisites": [
+        "Python"
+      ],
+      "missing_prerequisites": [],
+      "reason": "This course develops FastAPI, Pydantic, API Documentation, which are relevant to becoming a Generative AI Engineer. You currently meet its prerequisites."
+    },
+    {
+      "order": 5,
+      "course_id": 13,
+      "course": "Generative AI Fundamentals",
+      "score": 100,
+      "difficulty": "Intermediate",
+      "duration_weeks": 4,
+      "skills": [
+        "LLMs",
+        "Prompt Engineering",
+        "AI APIs"
+      ],
+      "prerequisites": [
+        "Python"
+      ],
+      "missing_prerequisites": [],
+      "reason": "This course develops LLMs, Prompt Engineering, AI APIs, which are relevant to becoming a Generative AI Engineer. You currently meet its prerequisites."
+    },
+    {
+      "order": 6,
+      "course_id": 14,
+      "course": "RAG Application Development",
+      "score": 100,
+      "difficulty": "Advanced",
+      "duration_weeks": 5,
+      "skills": [
+        "RAG",
+        "Embeddings",
+        "Vector Databases"
+      ],
+      "prerequisites": [
+        "Python",
+        "LLMs"
+      ],
+      "missing_prerequisites": [],
+      "reason": "This course develops RAG, Embeddings, Vector Databases, which are relevant to becoming a Generative AI Engineer. You currently meet its prerequisites."
+    }
+  ]
+}

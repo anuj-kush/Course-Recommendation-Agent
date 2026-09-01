@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "name": "Python Fundamentals",
+    "skills": ["Python", "Programming Basics"],
+    "career_paths": [
+      "Python Backend Developer",
+      "Data Analyst",
+      "Machine Learning Engineer",
+      "Generative AI Engineer"
+    ],
+    "prerequisites": [],
+    "difficulty": "Beginner",
+    "duration_weeks": 4
+  },
+  {
+    "id": 2,
+    "name": "Advanced Python",
+    "skills": ["OOP", "Exception Handling", "Modules"],
+    "career_paths": [
+      "Python Backend Developer",
+      "Machine Learning Engineer",
+      "Generative AI Engineer"
+    ],
+    "prerequisites": ["Python"],
+    "difficulty": "Intermediate",
+    "duration_weeks": 4
+  },
+  {
+    "id": 3,
+    "name": "SQL Fundamentals",
+    "skills": ["SQL", "Database Basics"],
+    "career_paths": [
+      "Python Backend Developer",
+      "Full-Stack Developer",
+      "Data Analyst",
+      "Machine Learning Engineer"
+    ],
+    "prerequisites": [],
+    "difficulty": "Beginner",
+    "duration_weeks": 3
+  },
+  {
+    "id": 4,
+    "name": "PostgreSQL Development",
+    "skills": ["PostgreSQL", "Joins", "Indexing"],
+    "career_paths": [
+      "Python Backend Developer",
+      "Full-Stack Developer",
+      "Data Analyst"
+    ],
+    "prerequisites": ["SQL"],
+    "difficulty": "Intermediate",
+    "duration_weeks": 3
+  },
+  {
+    "id": 5,
+    "name": "Django Development",
+    "skills": ["Django", "ORM", "Authentication"],
+    "career_paths": [
+      "Python Backend Developer",
+      "Full-Stack Developer"
+    ],
+    "prerequisites": ["Python"],
+    "difficulty": "Intermediate",
+    "duration_weeks": 5
+  },
+  {
+    "id": 6,
+    "name": "REST API Development",
+    "skills": ["REST API", "Django REST Framework", "JWT"],
+    "career_paths": [
+      "Python Backend Developer",
+      "Full-Stack Developer"
+    ],
+    "prerequisites": ["Python", "Django"],
+    "difficulty": "Intermediate",
+    "duration_weeks": 4
+  },
+  {
+    "id": 7,
+    "name": "FastAPI Development",
+    "skills": ["FastAPI", "Pydantic", "API Documentation"],
+    "career_paths": [
+      "Python Backend Developer",
+      "Generative AI Engineer"
+    ],
+    "prerequisites": ["Python"],
+    "difficulty": "Intermediate",
+    "duration_weeks": 3
+  },
+  {
+    "id": 8,
+    "name": "Frontend Fundamentals",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "career_paths": ["Full-Stack Developer"],
+    "prerequisites": [],
+    "difficulty": "Beginner",
+    "duration_weeks": 5
+  },
+  {
+    "id": 9,
+    "name": "React Development",
+    "skills": ["React", "Components", "State Management"],
+    "career_paths": ["Full-Stack Developer"],
+    "prerequisites": ["JavaScript"],
+    "difficulty": "Intermediate",
+    "duration_weeks": 5
+  },
+  {
+    "id": 10,
+    "name": "Data Analysis with Python",
+    "skills": ["Pandas", "NumPy", "Data Cleaning"],
+    "career_paths": [
+      "Data Analyst",
+      "Machine Learning Engineer"
+    ],
+    "prerequisites": ["Python"],
+    "difficulty": "Intermediate",
+    "duration_weeks": 4
+  },
+  {
+    "id": 11,
+    "name": "Data Visualization",
+    "skills": ["Matplotlib", "Seaborn", "Data Visualization"],
+    "career_paths": ["Data Analyst"],
+    "prerequisites": ["Python"],
+    "difficulty": "Intermediate",
+    "duration_weeks": 3
+  },
+  {
+    "id": 12,
+    "name": "Machine Learning Fundamentals",
+    "skills": ["Machine Learning", "Scikit-learn", "Model Evaluation"],
+    "career_paths": ["Machine Learning Engineer"],
+    "prerequisites": ["Python", "Pandas"],
+    "difficulty": "Intermediate",
+    "duration_weeks": 6
+  },
+  {
+    "id": 13,
+    "name": "Generative AI Fundamentals",
+    "skills": ["LLMs", "Prompt Engineering", "AI APIs"],
+    "career_paths": ["Generative AI Engineer"],
+    "prerequisites": ["Python"],
+    "difficulty": "Intermediate",
+    "duration_weeks": 4
+  },
+  {
+    "id": 14,
+    "name": "RAG Application Development",
+    "skills": ["RAG", "Embeddings", "Vector Databases"],
+    "career_paths": ["Generative AI Engineer"],
+    "prerequisites": ["Python", "LLMs"],
+    "difficulty": "Advanced",
+    "duration_weeks": 5
+  },
+  {
+    "id": 15,
+    "name": "Git and Docker Fundamentals",
+    "skills": ["Git", "GitHub", "Docker"],
+    "career_paths": [
+      "Python Backend Developer",
+      "Full-Stack Developer",
+      "Machine Learning Engineer",
+      "Generative AI Engineer"
+    ],
+    "prerequisites": [],
+    "difficulty": "Beginner",
+    "duration_weeks": 3
+  }
+]
