@@ -238,6 +238,11 @@ o	Sequential learning-path ordering
 
 	![Ordered course learning path](screenshots/learning-path.png)
 
+   ![Ordered course learning path](screenshots/learning-path2.png)
+
+   ![Ordered course learning path](screenshots/learning-path3.png)
+
+
 	 Sample Profiles
 
 	The repository contains four sample profiles:
